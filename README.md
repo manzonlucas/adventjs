@@ -2,6 +2,6 @@
 JS Challenges
 
 ### Sources:
-[https://www.codewars.com/]
+https://www.codewars.com/
 </br>
-[https://adventjs.dev/]
+https://adventjs.dev/
